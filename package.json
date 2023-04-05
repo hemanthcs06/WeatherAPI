@@ -10,5 +10,13 @@
   "license": "ISC",
   "dependencies": {
     "requests": "^0.3.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hemanthcs06/WeatherAPI.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hemanthcs06/WeatherAPI/issues"
+  },
+  "homepage": "https://github.com/hemanthcs06/WeatherAPI#readme"
 }
